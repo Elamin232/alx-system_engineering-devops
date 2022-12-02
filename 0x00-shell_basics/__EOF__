@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir /tmp/my_firdt_directory
+
+
+__EOF__
+Q
